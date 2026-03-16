@@ -9,7 +9,7 @@ public class PostTest {
         int pilih;
 
         do{
-        System.out.println("===== MENU =====");
+        System.out.println("\n===== MENU =====");
         System.out.println("1. Cek Saldo");
         System.out.println("2. Setor Tunai");
         System.out.println("3. Tarik Tunai");
